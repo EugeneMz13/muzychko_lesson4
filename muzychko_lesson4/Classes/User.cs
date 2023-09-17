@@ -3,16 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using muzychko_lesson4.Enums;
 
-namespace muzychko_lesson4
+namespace muzychko_lesson4.Classes
 {
-    //Створення enum
-    public enum Gender
-    {
-        Male,
-        Female
-    }
-
     public class User
     {
         //Поля та властивості
